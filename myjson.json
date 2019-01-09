@@ -1,0 +1,14 @@
+{
+	"data" : [
+		{
+			"name" : "Manoj Chafekar",
+			"gender" : "Male",
+			"designation" : "Software Engineer"
+		},
+		{
+			"name" : "Prakash Chafekar",
+			"gender" : "Male",
+			"designation" : "Software Developer"
+		}
+	]
+}
